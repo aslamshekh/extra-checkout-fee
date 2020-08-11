@@ -3,7 +3,7 @@ Contributors: wpboss
 Donate link: https://profiles.wordpress.org/wpboss/
 Tags: Extra Charge, Woocommerce extra checkout fee, extra fee,woocommerce extra fee
 Requires at least: 3.3
-Tested up to: 4.3.1
+Tested up to: 5.4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -28,7 +28,9 @@ Features
 == Installation ==
 
 From WordPress Dashboard go to “Plugins >> Add New >> Uploads”, select ‘quick-stock-management.zip’ file and upload it. Or,
+
 Extract the zip file, copy and paste to the ‘wp-conten/plugins/’ directory of your WordPress Installation.
+
 Activate the plugin.
 
 

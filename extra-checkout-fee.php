@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Extra Checkout Fee - Woo
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Checkout extra fee plugin gives the option to set up a checkout fee based on payment gateway configuration.
  * Version:           1.0.0
  * Author:            Aslam Shekh
  * Author URI:        https://profiles.wordpress.org/wpboss/
